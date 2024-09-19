@@ -71,7 +71,7 @@ function renderAbout() {
                     d'interface utilisateur monopage réactive.
                 </p>
                 <p>
-                    Auteur: Nicolas Chourot
+                    Auteur: Loïc Lompo
                 </p>
                 <p>
                     Collège Lionel-Groulx, automne 2024
